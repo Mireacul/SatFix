@@ -1,0 +1,5 @@
+name: SatFix
+version: 1.0.0
+main: com.mireacul.satfix.SatFix
+description: Normalizes saturation depletion rate regardless of health for UHC
+author: Mireacul
